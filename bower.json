@@ -1,0 +1,21 @@
+{
+  "name": "front",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Denis Popov <matrosege@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+   "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
